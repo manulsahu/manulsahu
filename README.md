@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my Nova project<br>🤝 I'm looking for help with backend (node.js)<br>🌱 I'm currently learning DSA<br>💬 Feel free to connect with me
+🔭 I'm currently working on my Nova project<br>🤝 I'm looking for help with backend <br>🌱 I'm currently learning DSA , Web Dev <br>💬 Feel free to connect with me
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=manulsahu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manulsahu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=dushyantrajotia&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=manulsahu&icon=0&color=0)](https://visitcount.itsvg.in)
